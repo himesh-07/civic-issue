@@ -1,5 +1,5 @@
 @'
-# Civic Issue Reporter
+# Civic Issue Resolver 
 
 A crowdsourced civic issue reporting and resolution system that allows citizens to report local issues and enables municipal staff to manage them efficiently.
 
@@ -64,7 +64,3 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Support
-
-If you have any questions or need help, please open an issue or contact the team.
-'@ | Out-File -FilePath README.md -Encoding UTF8
